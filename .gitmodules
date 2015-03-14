@@ -1,0 +1,3 @@
+[submodule "ModularBoost"]
+	path = ModularBoost
+	url = https://github.com/paulannetts/boost.git
